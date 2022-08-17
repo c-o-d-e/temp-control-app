@@ -38,7 +38,15 @@ main {
     display: flex;
     justify-content: center;
     align-items: center;
+    transition: 0.5s;
+}
+
+.circle-bg-cool {
     background-color: rgba(45, 45, 255, 0.4);
+}
+
+.circle-bg-hot {
+    background-color: rgba(237, 114, 26, 0.8);
 }
 
 .circle h1 {
