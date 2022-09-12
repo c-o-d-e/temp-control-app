@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/temp-control-app/static/css/main.517bbca7.css",
+    "main.js": "/temp-control-app/static/js/main.b3912548.js",
+    "index.html": "/temp-control-app/index.html",
+    "main.517bbca7.css.map": "/temp-control-app/static/css/main.517bbca7.css.map",
+    "main.b3912548.js.map": "/temp-control-app/static/js/main.b3912548.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.517bbca7.css",
+    "static/js/main.b3912548.js"
+  ]
+}
